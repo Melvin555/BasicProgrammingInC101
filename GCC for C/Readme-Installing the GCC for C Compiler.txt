@@ -12,3 +12,13 @@ To run GCC from the terminal, open command prompt, run (example)
 
 Note: 
 Full ready version is availble in MinGW-V5.1.6.rar
+
+-------------------------------------------------------------------------------------------------------------------
+
+!For VS Code users only!
+
+If there is a problem with the installation of 'C/C++ Extension', please use the 
+cpptools-win32.vsix file to install the extension.
+Go to Extension tab. On the right side of the search bar of Extension search bar (more options),
+choose 'Install from VSIX' then search for the cpptools-win32.vsix to completely install the package.
+
